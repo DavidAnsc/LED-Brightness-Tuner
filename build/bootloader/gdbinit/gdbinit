@@ -1,0 +1,2 @@
+source /Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader/gdbinit/symbols
+source /Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader/gdbinit/connect

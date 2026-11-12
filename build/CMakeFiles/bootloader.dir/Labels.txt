@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/CMakeFiles/bootloader
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/CMakeFiles/bootloader.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/CMakeFiles/bootloader-complete.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,6 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=/Users/david_an/Documents/Coding/summiter_active/led_brightness_tuner/build/specs/picolibc.specs"

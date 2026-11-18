@@ -1,1 +1,6 @@
 /build
+/.cache
+/.clangd
+/.claude
+nvim.log
+sdkconfig.old
